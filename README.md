@@ -1,8 +1,7 @@
 #### Getting the files
 Download zip file or <br>
 Clone with git + remove git folder
-```
-```
+
 <br><br><br>
 
 ## Setup
